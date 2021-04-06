@@ -14,3 +14,6 @@ Game Overview:
        
        Easter Eggs:
         If the player chooses a certain name they will get a surprise later in the game when they find a specific character. 
+        
+        Ending List: 
+          When the player completes the game the screen will display all aqquired items, money, and secrets that the player got during their playthrough.
