@@ -1,0 +1,1 @@
+ Moonlit Pilgrimage is a text-based adventure game where the player uses menus to navigate a strange forest filled with unusual creatures. Based on the player's actions they can get up to three different endings. They will need to find money, items, unlock hidden secrets, and much more. 
