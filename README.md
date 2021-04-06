@@ -11,3 +11,6 @@ Game Overview:
       
       Player Goals: 
        The ultimate goal is to leave the forest. The player can achieve this in multiple ways. The original mission is to make it the radio tower, but the player might discover alternative ways to exit this forest if they meet the requirements. 
+       
+       Easter Eggs:
+        If the player chooses a certain name they will get a surprise later in the game when they find a specific character. 
